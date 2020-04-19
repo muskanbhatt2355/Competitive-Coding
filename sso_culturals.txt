@@ -1,0 +1,1 @@
+https://gymkhana.iitb.ac.in/sso/oauth/authorize/?client_id=dIFNk1uI8sjVWhyg3jOvT5iKNzm88omtMBywgCN8&response_type=code&state=user_login&scope=basic profile ldap picture sex phone program insti_address secondary_emails send_mail  
